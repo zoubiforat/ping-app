@@ -1,1 +1,1 @@
-# ping-calculator
+# ping-app
